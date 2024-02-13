@@ -31,6 +31,10 @@
             
         </form>
         <hr>
+     <form action="search.php" method="post">
+        Search: <input type="text"  name="search" placeholder="student name" />
+        <input type="submit" value="Search" />
+    </form>
  
     <h1 class="text-left fw-bold">Student Details</h1>
 
